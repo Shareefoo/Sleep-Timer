@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Icon=/home/shareefoo/Desktop/sleep.png
+Name=Sleep Timer
+Exec=/home/shareefoo/Desktop/sleep_timer.sh
+Name[en_US]=Sleep Timer
